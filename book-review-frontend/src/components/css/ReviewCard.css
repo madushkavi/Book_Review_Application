@@ -1,0 +1,18 @@
+.review-card-main-container {
+  border: 1px solid #666;
+  border-radius: 5px;
+  padding: 20px;
+  width: 250px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.review-card-link{
+  text-decoration: none;
+  color: black;
+}
+.review-card-bottom{
+    display: flex;
+    justify-content:right;
+}

@@ -1,9 +1,13 @@
 const express = require("express");
 const mongoose = require("mongoose");
+const cors = require("cors");
 
 const app = express();
+app.use(cors());
+
 const Book = require("./models/book.model.js");
 const bookRoute = require("./routes/book.route.js");
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
@@ -14,8 +18,8 @@ mongoose
   .connect("mongodb://127.0.0.1:27017/book_review")
   .then(() => {
     console.log("Connected! local db");
-    app.listen(3000, () => {
-      console.log("Server running on 3000");
+    app.listen(5000, () => {
+      console.log("Server running on 5000");
     });
   })
   .catch(() => {

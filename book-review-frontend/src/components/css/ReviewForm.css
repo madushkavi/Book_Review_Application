@@ -1,0 +1,35 @@
+.review-form-main{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    width: 80%;    
+    height: 100vh;
+    overflow-y: auto;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+    gap: 10px;
+    border:  1px solid rgba(0, 0, 0, 0.703);
+}
+.form-container{
+    padding: 10px ;
+}
+.form-input{
+    padding: 20px;
+}
+.form-input input,
+.form-input textarea{
+    width: 200px;
+    padding: 10px;
+}
+.form-submit-button{
+    padding: 20px;
+    margin-top: 10px;
+}
+.form-submit-button button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #2e4156;
+    color: #d4d8dd;
+}
