@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "674814cd65facf87460d1dde"
+  },
+  "name": "Book 01",
+  "author": "Author 1",
+  "rating": 4,
+  "review_text": "Good content",
+  "createdAt": {
+    "$date": "2024-11-28T06:59:25.137Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T19:49:10.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674815c510ca47b26e2567f7"
+  },
+  "name": "The book",
+  "author": "Janney Corees",
+  "rating": 3,
+  "review_text": "Good content",
+  "createdAt": {
+    "$date": "2024-11-28T07:03:33.586Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T08:19:25.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67481614a5412e5055f039d5"
+  },
+  "name": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "rating": 5,
+  "review_text": "A delightful adventure book.",
+  "createdAt": {
+    "$date": "2024-11-28T07:04:52.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T07:04:52.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6748164d7783b5ab4f39b5d0"
+  },
+  "name": "The Road",
+  "author": "Cormac McCarthy",
+  "rating": 4,
+  "review_text": "A haunting and powerful story of survival and love in a post-apocalyptic world.",
+  "createdAt": {
+    "$date": "2024-11-28T07:00:16.284Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T07:00:16.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67482ea2ee2690162fdb0cf2"
+  },
+  "name": "The book 02",
+  "author": "James Smith",
+  "rating": 2,
+  "review_text": "Good content",
+  "createdAt": {
+    "$date": "2024-11-28T08:49:38.626Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T08:49:38.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674842a4dd42a05999ad5a2f"
+  },
+  "name": "The book 03",
+  "author": "Authar Smith",
+  "rating": 2,
+  "review_text": "Good Adventure story",
+  "createdAt": {
+    "$date": "2024-11-28T10:15:00.225Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T10:15:00.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6748b6bf8546d86445859106"
+  },
+  "name": "book 33",
+  "author": "Author 1",
+  "rating": 4,
+  "review_text": "Good content",
+  "createdAt": {
+    "$date": "2024-11-28T18:30:23.140Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T18:30:23.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6748c50878b4b7a3dbb22dca"
+  },
+  "name": "Cartoon Book",
+  "author": "Author 03",
+  "rating": 3,
+  "review_text": "Good content",
+  "createdAt": {
+    "$date": "2024-11-28T19:31:20.148Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T19:31:20.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6748c9ab07302e551b748009"
+  },
+  "name": "Book ZZ",
+  "author": "Author 03",
+  "rating": 4,
+  "review_text": "Adventure content",
+  "createdAt": {
+    "$date": "2024-11-28T19:51:07.164Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-28T19:51:07.164Z"
+  },
+  "__v": 0
+}]
