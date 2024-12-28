@@ -19,7 +19,7 @@ function Home() {
       }
     };
     fetchReviews();
-  }, []);
+  });
 
   if (loading) {
     return <div className="home-main-container">
